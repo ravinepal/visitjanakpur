@@ -3,8 +3,6 @@
   dateReadable: "March 08"
   tracks: 
     - {title: "Details", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "10:00",
