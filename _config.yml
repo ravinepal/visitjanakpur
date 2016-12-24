@@ -198,7 +198,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "The conference is organized by Code for Nepal, a non-profit working to increase digital literacy and the use of open data in Nepal. The conference will take place in Janakpur, a town in Southern Nepal. Attendees from all parts of the country will attend. The main objective of the conference is to train attendees to use everyday digital tools – whether Excel, Word, Google, YouTube, Facebook, or Twitter – to boost their skills, connections, and opportunities. Participants will leave the conference well-acquainted with social media platforms that will empower and equip them to dream bigger and better. Attendees will also hear from successful Nepali entrepreneurs on how to build companies and aim high."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -247,7 +247,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
