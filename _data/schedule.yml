@@ -7,12 +7,12 @@
     - {
     	startTime: "10:00",
     	endTime: "11:00",
-    	sessionIds: [002, 003, 004]
+    	sessionIds: [002]
     }
     - {
         startTime: "11:30",
         endTime: "14:00",
-        sessionIds: [003, 404, 004]
+        sessionIds: [003]
     }
     - {
     	startTime: "14:30",
