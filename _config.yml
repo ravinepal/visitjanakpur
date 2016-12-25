@@ -63,7 +63,7 @@ heroButtons:
  - {link: "https://goo.gl/forms/IBeZvMpEO0ey56Vx2", text: "Tell us what you want to learn at the Conference"}
 
 # About Block
-aboutTitle: "About Nepali Digital Conference"
+aboutTitle: "About Digital Nepal Conference"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The first digital conference in Janakpur. Attendees will hear from successful Nepali entrepreneurs on how to build companies and aim high." }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops on how to use Excel, Word, Google, YouTube, Facebook, or Twitter – to boost their skills, connections, and opportunities." }
