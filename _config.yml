@@ -51,10 +51,6 @@ bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
 rightNavigationButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
-bottomNavigationLinks:
- - {link: "https://goo.gl/forms/IBeZvMpEO0ey56Vx2", text: "Tell us what you want to learn at the Conference"}
-rightNavigationButtons:
- - {link: "https://goo.gl/forms/IBeZvMpEO0ey56Vx2", text: "Tell us what you want to learn at the Conference"}
 
 # Hero Block
 heroImage: "JanakiTemple.jpg"
