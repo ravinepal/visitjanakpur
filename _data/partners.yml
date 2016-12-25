@@ -1,13 +1,11 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Eejot.org", description: "Eejot.org", link: "https://www.eejot.org", imageUrl: "google.svg"}
+    - {name: "Eejot.org", description: "Eejot.org", link: "https://www.eejot.org", imageUrl: "eejot.png"}
 - 
   group: "With support of"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
 - 
   group: "Information partners"
   elements: 
