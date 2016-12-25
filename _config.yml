@@ -78,7 +78,7 @@ statisticBlock:
  - {count: "25", specialCharacter: "", info: "scholarships", detail: "to young women to learn coding"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Blog"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
