@@ -54,9 +54,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Digital Nepal <typeout> 2017"
-eventDate: "March 8 - 9, 2017"
-typeoutTextValues: '"", "Janakpur", "Conference", "Youth Empowerment", "Wedding"'
+heroTitle: "Digital Nepal <typeout> Janakpur,2017"
+eventDate: "Falgun 19-20, 2073 | March 8-9, 2017 "
+typeoutTextValues: '"","Conference", "Youth Empowerment"'
 typeoutFallback: "Conference"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
