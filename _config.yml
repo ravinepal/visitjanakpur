@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+ # - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
 rightNavigationButtons:
@@ -203,8 +203,8 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "The conference is organized by Code for Nepal, a non-profit working to increase digital literacy and the use of open data in Nepal. The conference will take place in Janakpur, a town in Southern Nepal. Attendees from all parts of the country will attend. The main objective of the conference is to train attendees to use everyday digital tools – whether Excel, Word, Google, YouTube, Facebook, or Twitter – to boost their skills, connections, and opportunities. Participants will leave the conference well-acquainted with social media platforms that will empower and equip them to dream bigger and better. Attendees will also hear from successful Nepali entrepreneurs on how to build companies and aim high."
+# teamBlockTitle: "About us"
+# aboutUs: "The conference is organized by Code for Nepal, a non-profit working to increase digital literacy and the use of open data in Nepal. The conference will take place in Janakpur, a town in Southern Nepal. Attendees from all parts of the country will attend. The main objective of the conference is to train attendees to use everyday digital tools – whether Excel, Word, Google, YouTube, Facebook, or Twitter – to boost their skills, connections, and opportunities. Participants will leave the conference well-acquainted with social media platforms that will empower and equip them to dream bigger and better. Attendees will also hear from successful Nepali entrepreneurs on how to build companies and aim high."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
