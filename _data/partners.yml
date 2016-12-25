@@ -1,7 +1,7 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Eejot.org", description: "Eejot.org - Towards brightness through education", link: "https://www.eejot.org", imageUrl: "eejot.png"}
+    - {name: "Eejot.org", description: "Eejot.org - Towards brightness through education", link: "https://www.eejot.org", imageUrl: "eejot.png", width: "120px"}
 - 
   group: "With support of"
   elements: 
