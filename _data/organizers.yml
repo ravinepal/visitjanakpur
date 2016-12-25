@@ -5,4 +5,4 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "Eejot.org", description: "Eejot.org - Towards brightness through education", link: "http://eejot.org", imageUrl: "eejot.png"}
+    - {name: "Eejot.org", description: "Eejot.org - Towards brightness through education", link: "http://eejot.org", imageUrl: "eejot.png", width: "120px"}
