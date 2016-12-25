@@ -48,9 +48,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "JanakiTemple.jpg"
@@ -59,7 +59,7 @@ eventDate: "Falgun 19-20, 2073 | March 8-9, 2017 "
 typeoutTextValues: '"","Conference"'
 typeoutFallback: "Conference"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
