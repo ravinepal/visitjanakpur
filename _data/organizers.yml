@@ -1,8 +1,8 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "Code For Nepal", description: "GDG Lviv - Open and volunteer geek community", link: "http://codefornepal.org", imageUrl: "gdg-lviv.svg"}
+    - {name: "Code For Nepal", description: "GDG Lviv - Open and volunteer geek community", link: "http://codefornepal.org", imageUrl: "http://www.codefornepal.org/wp-content/uploads/2015/01/c4n_logo.png"}
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "Eejot.org", description: "Eejot.org - Open and volunteer geek community", link: "http://eejot.org", imageUrl: "gdg-kyiv.svg"}
+    - {name: "Eejot.org", description: "Eejot.org - Open and volunteer geek community", link: "http://eejot.org", imageUrl: "eejot.png"}
