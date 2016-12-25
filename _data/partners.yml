@@ -1,12 +1,12 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Eejot.org", description: "Eejot.org", link: "https://www.eejot.org", imageUrl: "eejot.png"}
+    - {name: "Eejot.org", description: "Eejot.org - Towards brightness through education", link: "https://www.eejot.org", imageUrl: "eejot.png"}
 - 
   group: "With support of"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+    - {name: "Coming soon", description: "Coming soon", link: "#", imageUrl: "coming.jpg", width: "120px"}
 - 
   group: "Information partners"
   elements: 
-    - {name: "Coming soon", description: "Coming soon", link: "#", imageUrl: "google.svg"}
+    - {name: "Coming soon", description: "Coming soon", link: "#", imageUrl: "coming.jpg"}
