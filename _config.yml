@@ -180,7 +180,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://codefornepal.org", text: "Code For Nepal"}
-   - {link: "http://www.bgfotography.com/", text: "Photo: Bishal Gautam"}
+   - {link: "http://www.bgfotography.com/", text: "Photo by: Bishal Gautam"}
  -
   title: "Contacts"
   links:
