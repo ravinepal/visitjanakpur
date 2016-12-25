@@ -122,11 +122,9 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
 
-bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
-partnersC4sponsorsButton: "Become a sponsor/partner"
+
+partnersC4sponsorsButton:  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
+
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
