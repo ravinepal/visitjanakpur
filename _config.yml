@@ -123,7 +123,8 @@ organizersTitle: "Organizers"
 partnersTitle: "Partners"
 
 
-partnersC4sponsorsButton:  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
+partnersC4sponsorsButton: 
+- {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker/partner"}
 
 
 # Subscribe Block
