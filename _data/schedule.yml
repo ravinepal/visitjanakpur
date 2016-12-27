@@ -30,7 +30,7 @@
         sessionIds: [307]
     }
     
-- date: "2014-10-25"
+    date: "2014-10-25"
   dateReadable: "October 25"
   tracks: 
     - {title: "Android", color: "#90be4e"}
