@@ -65,7 +65,7 @@ heroButtons:
 # About Block
 aboutTitle: "About Digital Nepal Conference"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The first digital conference in Janakpur. Attendees will hear from successful Nepali entrepreneurs on how to build companies and aim high." }
+ - {title: "Conference", image: "conference.jpeg", text: "The first digital conference in Janakpur. Attendees will hear from successful Nepali entrepreneurs on how to build companies and aim high." }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops on how to use Excel, Word, Google, YouTube, Facebook, or Twitter – to boost their skills, connections, and opportunities." }
  - {title: "Community", image: "hackathon.jpg", text: "Participants will network with each other, mentors, speakers and entrepreneurs." }
 
