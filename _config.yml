@@ -74,7 +74,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "125", specialCharacter: "+", info: "attendees", detail: "from around the country"}
  - {count: "18", specialCharacter: "+", info: "hours", detail: "of inspiring ideas, and hands on workshops"}
- - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from Nepal and beyond"}
  - {count: "25", specialCharacter: "", info: "scholarships", detail: "to young women to learn coding"}
 
 # Latest News Block
