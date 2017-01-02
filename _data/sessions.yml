@@ -76,10 +76,10 @@
   service: true
 -
   id: 123
-  title: "Using smartphone to to take photos and videos, and tell a story."
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Event Title"
+  description: "Event Description"
   subtype: presentation
   speakers: [4]
   language: en
   complexity: "Beginner" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"  
+  presentation: "https://#"  
