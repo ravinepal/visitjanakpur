@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Digital Nepal | Janakpur, 2017"
 email: "contact@codefornepal.org"
 description: "A conference to empower youth in Nepal."
-baseurl: "/digitalnepal"
+baseurl: "/"
 url: "https://code4nepal.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
