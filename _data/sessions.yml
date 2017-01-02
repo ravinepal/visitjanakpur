@@ -25,8 +25,8 @@
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
+  id: 900
+  title: "Registration and light breakfast"
   description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
   subtype: presentation
   speakers: [4, 5]
@@ -34,6 +34,147 @@
   complexity: "Intermediate" 
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 901
+  title: "Welcome remarks by the hosts."
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"  
+-
+  id: 902
+  title: "How to use social media responsibly, especially during crisis."
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 903
+  title: "Inspirational speaker on education, and career."
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 904
+  title: "How can digital tools and platforms be used to tell a powerful story."
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 905
+  title: "Experiences of local youth and changemakers."
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 906
+  title: "Lunch Break"
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 907
+  title: "Speaker on career, and business."
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 908
+  title: "Soft skills, including public speaking, training."
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 909
+  title: "Leveraging digital technology to build successful companies in Nepal."
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 910
+  title: " TBD."
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 911
+  title: "Panel with guests from outside of Nepal."
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 912
+  title: "Tea/snacks break"
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 913
+  title: "Keynote Speaker"
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 914
+  title: "Networking (Food and drinks available.)"
+  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
 -
   id: 003
   title: "Using smartphone to to take photos and videos, and tell a story."
