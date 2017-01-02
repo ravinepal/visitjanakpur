@@ -1,7 +1,6 @@
 -
   id: 101
   title: "Welcome and Importance of Citizen Journalism"
-  place: "Hall"
   service: true
 -
   id: 102
@@ -10,57 +9,71 @@
 -
   id: 103
   title: "Data Visualization"
+  service: true
 -
   id: 104
   title: "Networking, questions and answers. (Food and drinks available.)"
-  place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
 -
   id: 900
   title: "Registration and light breakfast"
+  service: true
 -
   id: 901
   title: "Welcome remarks by the hosts."
+  service: true
 -
   id: 902
   title: "How to use social media responsibly, especially during crisis."
+  service: true
 -
   id: 903
   title: "Inspirational speaker on education, and career."
+  service: true
 -
   id: 904
   title: "How can digital tools and platforms be used to tell a powerful story."
+  service: true
 -
   id: 905
   title: "Experiences of local youth and changemakers."
+  service: true
 -
   id: 906
   title: "Lunch Break"
+  service: true
 -
   id: 907
   title: "Speaker on career, and business."
+  service: true
 -
   id: 908
   title: "Soft skills, including public speaking, training."
+  service: true
 -
   id: 909
   title: "Leveraging digital technology to build successful companies in Nepal."
+  service: true
 -
   id: 910
   title: " TBD."
+  service: true
 -
   id: 911
   title: "Panel with guests from outside of Nepal."
+  service: true
 -
   id: 912
   title: "Tea/snacks break"
+  service: true
 -
   id: 913
   title: "Keynote Speaker"
+  service: true
 -
   id: 914
   title: "Networking (Food and drinks available.)"
+  service: true
 -
   id: 123
   title: "Using smartphone to to take photos and videos, and tell a story."
