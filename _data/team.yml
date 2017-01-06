@@ -55,3 +55,14 @@
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 5
+  name: "Shashi"
+  surname: "Adhikari"
+  title: "Code For Nepal"
+  thumbnailUrl: OstapAndrusiv.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "http://www.twitter.com/AdhikariShashi"}
