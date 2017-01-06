@@ -3,7 +3,7 @@
   name: "Alisha"
   surname: "Chhetri"
   title: "WDAC"
-  thumbnailUrl: alisha.png
+  thumbnailUrl: alisha2.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -31,10 +31,10 @@
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 3
-  name: "Nanda Kishor"
-  surname: "Mandal"
+  name: "Pradeep"
+  surname: "Dutt"
   title: "WDAC"
-  thumbnailUrl: nanda.jpg
+  thumbnailUrl: pradeep.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -52,18 +52,6 @@
     - {name: "github", link: "https://github.com/prashishh"}
 - 
   id: 5
-  name: "Ravi"
-  surname: "Nepal"
-  title: "Code For Nepal"
-  thumbnailUrl: ravi.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "twitter", link: "http://www.twitter.com/ravinepal"}
-    - {name: "github", link: "https://github.com/ravinepal"}
-- 
-  id: 6
   name: "Roshan"
   surname: "Ghimire"
   title: "Code For Nepal"
@@ -74,7 +62,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/RoshGhimire"}
 - 
-  id: 7
+  id: 6
   name: "Shashi"
   surname: "Adhikari"
   title: "Code For Nepal"
