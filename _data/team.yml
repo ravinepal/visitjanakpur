@@ -2,38 +2,56 @@
   id: 0
   name: "Ravi"
   surname: "Nepal"
-  # title: "Sponsors and Speakers Manager"
+  title: "Code For Nepal"
   thumbnailUrl: VitaliyZasadnyy.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "twitter", link: "http://www.twitter.com/ravinepal"}
+    - {name: "github", link: "https://github.com/ravinepal"}
 - 
   id: 1
-  name: "Amit"
-  surname: "Chaudhary"
-  # title: "Designer and Web Developer"
+  name: "Prashish"
+  surname: "Rajbhandari"
+  title: "Code For Nepal"
   thumbnailUrl: OlehZasadnyy.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "twitter", link: "http://www.twitter.com/prashishh"}
+    - {name: "github", link: "https://github.com/prashishh"}
 - 
   id: 2
-  name: "Prashish"
-  surname: "Rajbhandari"
-  # title: "Sponsors and Speakers Manager"
+  name: "Amit"
+  surname: "Chaudhary"
+  title: "Code For Nepal"
   thumbnailUrl: OstapAndrusiv.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "github", link: "https://github.com/studenton"}
+    - {name: "twitter", link: "https://twitter.com/studentoncom"}
+    - {name: "site", link: "http://studenton.com"}
+- 
+  id: 3
+  name: "Roshan"
+  surname: "Ghimire"
+  title: "Code For Nepal"
+  thumbnailUrl: OstapAndrusiv.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/RoshGhimire"}
+- 
+  id: 4
+  name: "Asmita"
+  surname: "Gauchan"
+  title: "Code For Nepal"
+  thumbnailUrl: OstapAndrusiv.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
