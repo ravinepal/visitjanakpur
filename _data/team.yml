@@ -15,7 +15,7 @@
   name: "Prashish"
   surname: "Rajbhandari"
   title: "Code For Nepal"
-  thumbnailUrl: OlehZasadnyy.jpg
+  thumbnailUrl: prashish.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -27,7 +27,7 @@
   name: "Amit"
   surname: "Chaudhary"
   title: "Code For Nepal"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: amit.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -40,7 +40,7 @@
   name: "Roshan"
   surname: "Ghimire"
   title: "Code For Nepal"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: roshan.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -51,7 +51,7 @@
   name: "Asmita"
   surname: "Gauchan"
   title: "Code For Nepal"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: asmita.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -60,7 +60,7 @@
   name: "Shashi"
   surname: "Adhikari"
   title: "Code For Nepal"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: shashi.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
