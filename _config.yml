@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Digital Nepal | Janakpur, 2017"
+title: "Digital Nepal | Janakpur"
 email: "contact@codefornepal.org"
 description: "A conference to empower youth in Nepal."
 baseurl: ""
