@@ -56,8 +56,8 @@ rightNavigationButtons:
 heroImage: "JanakiTemple.jpg"
 heroTitle: "Digital Nepal <typeout> Janakpur"
 eventDate: "Falgun 25-26, 2073 | March 8-9, 2017 "
-typeoutTextValues: '"","Conference"'
-typeoutFallback: "Conference"
+typeoutTextValues: '"","Conference "'
+typeoutFallback: "Conference "
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
  - {link: "https://goo.gl/forms/IBeZvMpEO0ey56Vx2", text: "Tell us what you want to learn at the Conference"}
