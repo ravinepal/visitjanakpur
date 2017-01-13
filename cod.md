@@ -16,7 +16,7 @@ If someone is bothering you or you see someone is bothering someone else, please
 
 ######Contacts:
 
-- Shashi Adhikari, +91 72 05 505393, shashi@codefornepal.org 
+- Shashi Adhikari, +977 9818796746, shashi@codefornepal.org 
 - Twitter: @codefornepal 
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
