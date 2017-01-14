@@ -60,13 +60,13 @@ typeoutTextValues: '"","Conference "'
 typeoutFallback: "Conference "
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
- - {link: "https://goo.gl/forms/IBeZvMpEO0ey56Vx2", text: "Tell us what you want to learn at the Conference"}
+ - {link: "https://goo.gl/forms/IBeZvMpEO0ey56Vx2", text: "Take the survey"}
 
 # About Block
 aboutTitle: "About Digital Nepal Conference"
 aboutBlock:
  - {title: "Conference", image: "conference.jpeg", text: "The first digital conference in Janakpur. Attendees will hear from successful Nepali entrepreneurs on how to build companies and aim high." }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops on how to use Excel, Word, Google, YouTube, Facebook, or Twitter – to boost their skills, connections, and opportunities." }
+ - {title: "Workshops", image: "workshop.jpg", text: "Workshops on how to use Excel, Word, Google, YouTube, Facebook, or Twitter – to boost their skills, connections, and opportunities." }
  - {title: "Community", image: "hackathon.jpg", text: "Participants will network with each other, mentors, speakers and entrepreneurs." }
 
 # Statistic Block
