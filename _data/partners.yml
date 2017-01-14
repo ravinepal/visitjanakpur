@@ -1,7 +1,7 @@
 - 
   group: "General sponsor"
   elements: 
-    - 
+    - {name: "Coming soon", description: "Coming soon", link: "#", imageUrl: "coming.jpg", width: "120px"}
 - 
   group: "With support of"
   elements: 
