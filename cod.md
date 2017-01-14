@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Be really nice to everyon
+title: Be really nice to everyone
 permalink: /cod/
 isStaticPost: true
 ---
@@ -11,8 +11,6 @@ Code for Nepal believes in open, free Internet for everyone. Code for Nepal comm
 Digital Nepal -- a conference by Code for Nepal is an open, collaborative, inclusive and respectful community. That means listening to others respectfully even when you don’t agree. Making comments based on someone’s look, gender, color of skin, or touching people uninvited is not allowed. 
 
 If someone is bothering you or you see someone is bothering someone else, please let Digital Nepal organizers know immediately, and they will take necessary action to maintain open, cohesive and inclusive environment! 
-
-
 
 ######Contacts:
 
