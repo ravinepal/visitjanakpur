@@ -60,7 +60,7 @@ typeoutTextValues: '"","Conference "'
 typeoutFallback: "Conference "
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
- - {link: "https://goo.gl/forms/IBeZvMpEO0ey56Vx2", text: "Take the survey"}
+ - {link: "https://goo.gl/forms/IBeZvMpEO0ey56Vx2", text: "Apply to attend"}
 
 # About Block
 aboutTitle: "About Digital Nepal Conference"
