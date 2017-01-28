@@ -1,35 +1,35 @@
 - 
   id: 3
-  name: "Coming"
-  surname: "Soon"
-  company: "Coming Soon"
+  name: "Anusha"
+  surname: "Yadav"
+  company: "Accountability Lab"
   title: "Coming Soon"
   bio: "Coming soon."
-  thumbnailUrl: coming.jpg
+  thumbnailUrl: anusha.png
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "google-plus", link: "#"}
 - 
   id: 4
-  name: "Coming"
-  surname: "Soon"
-  company: "Coming Soon"
+  name: "Yogina"
+  surname: "Shakya"
+  company: "Cloud Factory"
   title: "Coming Soon"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: coming.jpg
+  bio: 'Coming soon'
+  thumbnailUrl: yogina.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "#"}
+    - {name: "twitter", link: "#"}
+    - {name: "github", link: "#"}
 - 
   id: 5
-  name: "Coming"
-  surname: "Soon"
-  company: "Coming Soon"
+  name: "Biswas"
+  surname: "Dhakal"
+  company: "F1Soft"
   title: "Coming Soon"
   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: coming.jpg
+  thumbnailUrl: bishwas.jpeg
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
@@ -39,12 +39,12 @@
     - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 6
-  name: "Coming"
-  surname: "Soon"
-  company: "Coming Soon"
+  name: "Dietrich"
+  surname: "Ayala"
+  company: "Mozilla"
   title: "Coming Soon"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: coming.jpg
+  bio: "Coming Soon"
+  thumbnailUrl: dietrich.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -53,15 +53,29 @@
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 7
-  name: "Coming"
-  surname: "Soon"
-  company: "Coming Soon"
+  name: "David"
+  surname: "Carpara"
+  company: "Journalist"
   title: "Coming Soon"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: coming.jpg
+  bio: "Coming Soon"
+  thumbnailUrl: david.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 8
+  name: "Promisha"
+  surname: "Mishra"
+  company: "Computer Engineer"
+  title: "Coming Soon"
+  bio: "Coming Soon"
+  thumbnailUrl: promisha.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}    
