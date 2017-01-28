@@ -1,5 +1,5 @@
 - 
-  id: 3
+  id: 1
   name: "Anusha"
   surname: "Yadav"
   company: "Accountability Lab"
@@ -10,7 +10,7 @@
   social: 
     - {name: "google-plus", link: "#"}
 - 
-  id: 4
+  id: 2
   name: "Yogina"
   surname: "Shakya"
   company: "Cloud Factory"
@@ -23,7 +23,7 @@
     - {name: "twitter", link: "#"}
     - {name: "github", link: "#"}
 - 
-  id: 5
+  id: 3
   name: "Biswas"
   surname: "Dhakal"
   company: "F1Soft"
@@ -38,7 +38,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
     - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
-  id: 6
+  id: 4
   name: "Dietrich"
   surname: "Ayala"
   company: "Mozilla"
@@ -52,7 +52,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
-  id: 7
+  id: 5
   name: "David"
   surname: "Carpara"
   company: "Journalist"
@@ -66,7 +66,7 @@
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 - 
-  id: 8
+  id: 6
   name: "Promisha"
   surname: "Mishra"
   company: "Computer Engineer"
