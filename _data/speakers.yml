@@ -31,12 +31,9 @@
   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
   thumbnailUrl: bishwas.jpeg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: "#"}
+    - {name: "twitter", link: "#"}
 - 
   id: 4
   name: "Dietrich"
@@ -46,11 +43,9 @@
   bio: "Coming Soon"
   thumbnailUrl: dietrich.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "google-plus", link: "#"}
+    - {name: "twitter", link: "#"}
 - 
   id: 5
   name: "David"
@@ -60,11 +55,9 @@
   bio: "Coming Soon"
   thumbnailUrl: david.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "#"}
+    - {name: "site", link: "#"}
 - 
   id: 6
   name: "Promisha"
@@ -74,8 +67,6 @@
   bio: "Coming Soon"
   thumbnailUrl: promisha.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}    
+    - {name: "google-plus", link: "#"}
+    - {name: "site", link: "#"}    
