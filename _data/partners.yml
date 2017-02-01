@@ -7,6 +7,6 @@
   elements: 
     - {name: "Coming soon", description: "Coming soon", link: "#", imageUrl: "coming.jpg", width: "120px"}
 - 
-  group: "Media partners"
+  group: "General partners"
   elements: 
-    - {name: "Coming soon", description: "Coming soon", link: "#", imageUrl: "coming.jpg"}
+    - {name: "Madhesi Youth", description: "Madhesi Youth", link: "#", imageUrl: "madhesi-youth.png"}
