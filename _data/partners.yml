@@ -10,3 +10,4 @@
   group: "General partners"
   elements: 
     - {name: "Madhesi Youth", description: "Madhesi Youth", link: "#", imageUrl: "madhesi-youth.png"}
+    - {name: "Janakpur Youth Network - JYN", description: "Janakpur Youth Network - JYN", link: "#", imageUrl: "JYN.jpg"}
