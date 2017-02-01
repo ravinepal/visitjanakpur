@@ -5,8 +5,6 @@
   title: "WDAC"
   thumbnailUrl: alisha2.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 1
   name: "Amit"
@@ -14,8 +12,6 @@
   title: "Code For Nepal"
   thumbnailUrl: amit.png
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "github", link: "https://github.com/studenton"}
     - {name: "twitter", link: "https://twitter.com/studentoncom"}
@@ -27,48 +23,45 @@
   title: "Code For Nepal"
   thumbnailUrl: asmita.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 3
+  name: "Bikram"
+  surname: "Rauniyar"
+  title: "Photographer"
+  thumbnailUrl: bikram.jpeg
+  team: true
+- 
+  id: 4
   name: "Pradeep"
   surname: "Dutt"
   title: "WDAC"
   thumbnailUrl: pradeep.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
 - 
-  id: 4
+  id: 5
   name: "Prashish"
   surname: "Rajbhandari"
   title: "Code For Nepal"
   thumbnailUrl: prashish.jpeg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "twitter", link: "http://www.twitter.com/prashishh"}
     - {name: "github", link: "https://github.com/prashishh"}
 - 
-  id: 5
+  id: 6
   name: "Roshan"
   surname: "Ghimire"
   title: "Code For Nepal"
   thumbnailUrl: roshan.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "twitter", link: "https://twitter.com/RoshGhimire"}
 - 
-  id: 6
+  id: 7
   name: "Shashi"
   surname: "Adhikari"
   title: "Code For Nepal"
   thumbnailUrl: shashi.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "twitter", link: "http://www.twitter.com/AdhikariShashi"}
