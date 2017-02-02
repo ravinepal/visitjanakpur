@@ -69,4 +69,16 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "#"}
-    - {name: "site", link: "#"}    
+    - {name: "site", link: "#"}  
+- 
+  id: 7
+  name: "Elizabeth"
+  surname: "Bennett"
+  company: ""
+  title: "International Development Expert"
+  bio: "Coming Soon"
+  thumbnailUrl: elizabeth.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "#"}
+    - {name: "site", link: "#"}        
