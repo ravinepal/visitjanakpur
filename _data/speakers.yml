@@ -90,7 +90,7 @@
   title: "Coming Soon"
   bio: "Coming Soon"
   thumbnailUrl: ravi.jpg
-  rockstar: false
+  rockstar: true
   social: 
-    - {name: "google-plus", link: "#"}
-    - {name: "site", link: "#"} 
+    - {name: "Twitter", link: "https://twitter.com/RaviNepal"}
+    - {name: "Facebook", link: "https://www.facebook.com/RaviKNepal"} 
