@@ -85,12 +85,12 @@
 - 
   id: 8
   name: "Ravi"
-  surname: "Nepal"
+  surname: "Kumar"
   company: "Founder, Code for Nepal"
   title: "Coming Soon"
   bio: "Coming Soon"
   thumbnailUrl: ravi.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "#"}
     - {name: "site", link: "#"} 
