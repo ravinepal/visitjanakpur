@@ -48,9 +48,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "About"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd-1YHiRCuQ9lRwTAJYE1a7UWv6MeMJQOewpEdS55W0QozVxg/viewform?c=0&w=1", text: "Apply to attend the conference"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd-1YHiRCuQ9lRwTAJYE1a7UWv6MeMJQOewpEdS55W0QozVxg/viewform?c=0&w=1", text: "Apply to attend the conference"}
 
 # Hero Block
 heroImage: "JanakiTemple.jpg"
@@ -59,8 +59,7 @@ eventDate: "Falgun 25-26, 2073 | March 8-9, 2017 "
 typeoutTextValues: '"","Conference "'
 typeoutFallback: "Conference "
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe392Mpc9mD122R2V0r2jyIL3M5QaKCKU-RceqkviASRbaExw/viewform?c=0&w=1", text: "Become a speaker"}
- - {link: "https://goo.gl/forms/IBeZvMpEO0ey56Vx2", text: "Apply to attend"}
+ - {link: "https://goo.gl/forms/IBeZvMpEO0ey56Vx2", text: "Apply to attend the conference"}
 
 # About Block
 aboutTitle: "About Digital Nepal Conference"
