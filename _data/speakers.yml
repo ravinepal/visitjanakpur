@@ -74,11 +74,23 @@
   id: 7
   name: "Elizabeth"
   surname: "Bennett"
-  company: ""
-  title: "International Development Expert"
+  company: "International Development Expert"
+  title: "Coming Soon"
   bio: "Coming Soon"
   thumbnailUrl: elizabeth.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "#"}
     - {name: "site", link: "#"}        
+- 
+  id: 8
+  name: "Ravi"
+  surname: "Nepal"
+  company: "Founder, Code for Nepal"
+  title: "Coming Soon"
+  bio: "Coming Soon"
+  thumbnailUrl: ravi.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "#"}
+    - {name: "site", link: "#"} 
