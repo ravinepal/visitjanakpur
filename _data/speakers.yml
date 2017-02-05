@@ -94,3 +94,21 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/RaviNepal"}
     - {name: "facebook", link: "https://www.facebook.com/RaviKNepal"} 
+- 
+  id: 9
+  name: "Pratap"
+  surname: "Adhikari"
+  company: "Association of Youth Organization Nepal (AYON)"
+  title: "Coming Soon"
+  bio: "Coming Soon"
+  thumbnailUrl: pratap.jpg
+  rockstar: true
+-
+  id: 10
+  name: "Nanda"
+  surname: "Kishor Mandal"
+  company: "WOMEN Development Advocacy Center"
+  title: "Coming Soon"
+  bio: "Coming Soon"
+  thumbnailUrl: nanda.jpg
+  rockstar: true
