@@ -83,18 +83,6 @@
     - {name: "google-plus", link: "#"}
     - {name: "site", link: "#"}        
 - 
-  id: 10
-  name: "Ravi"
-  surname: "Kumar"
-  company: "Founder, Code for Nepal"
-  title: "Coming Soon"
-  bio: "Coming Soon"
-  thumbnailUrl: ravi.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/RaviNepal"}
-    - {name: "facebook", link: "https://www.facebook.com/RaviKNepal"} 
-- 
   id: 8
   name: "Pratap"
   surname: "Adhikari"
@@ -112,3 +100,15 @@
   bio: "Coming Soon"
   thumbnailUrl: nanda.jpg
   rockstar: true
+- 
+  id: 10
+  name: "Ravi"
+  surname: "Kumar"
+  company: "Founder, Code for Nepal"
+  title: "Coming Soon"
+  bio: "Coming Soon"
+  thumbnailUrl: ravi.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/RaviNepal"}
+    - {name: "facebook", link: "https://www.facebook.com/RaviKNepal"} 
