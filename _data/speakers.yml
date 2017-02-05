@@ -92,5 +92,5 @@
   thumbnailUrl: ravi.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/RaviNepal", text: "Twitter"}
-    - {name: "facebook", link: "https://www.facebook.com/RaviKNepal", text: "Facebook"} 
+    - {name: "twitter", link: "https://twitter.com/RaviNepal"}
+    - {name: "facebook", link: "https://www.facebook.com/RaviKNepal"} 
