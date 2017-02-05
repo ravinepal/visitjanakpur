@@ -83,7 +83,7 @@
     - {name: "google-plus", link: "#"}
     - {name: "site", link: "#"}        
 - 
-  id: 8
+  id: 10
   name: "Ravi"
   surname: "Kumar"
   company: "Founder, Code for Nepal"
@@ -95,7 +95,7 @@
     - {name: "twitter", link: "https://twitter.com/RaviNepal"}
     - {name: "facebook", link: "https://www.facebook.com/RaviKNepal"} 
 - 
-  id: 9
+  id: 8
   name: "Pratap"
   surname: "Adhikari"
   company: "Association of Youth Organization Nepal (AYON)"
@@ -104,7 +104,7 @@
   thumbnailUrl: pratap.jpg
   rockstar: true
 -
-  id: 10
+  id: 9
   name: "Nanda"
   surname: "Kishor Mandal"
   company: "WOMEN Development Advocacy Center"
