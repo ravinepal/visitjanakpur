@@ -112,3 +112,16 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/RaviNepal"}
     - {name: "facebook", link: "https://www.facebook.com/RaviKNepal"} 
+- 
+  id: 11
+  name: "Amit"
+  surname: "Jha"
+  company: "CEO, Internet Market Today"
+  title: "Coming Soon"
+  bio: "Amit Jha is founder and CEO of Internet Market Today, a digital marketing agency serving clients worldwide. He has worked on a many projects with clients across the globe (USA, UK, Canada, Australia, Singapore, Hong Kong etc) helping them achieve their business goals using multiple digital channels such as SEO (Search Engine Optimization), Paid Search and Social Media Marketing. Being in the industry for over 7 years now he has worked with wide range of projects from small mom-pop business to big eCommerce websites"
+  thumbnailUrl: amitjha.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/realamitjha"}
+    - {name: "facebook", link: "https://www.facebook.com/realamitjha"} 
+    - {name: "site", link: "http://www.internetmarkettoday.com/"}
