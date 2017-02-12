@@ -3,8 +3,8 @@
   name: "Anusha"
   surname: "Yadav"
   company: "Accountability Lab"
-  title: "Coming Soon"
-  bio: "Coming soon."
+  title: "Communications & Development Manager"
+  bio: "Anusha is Communications & Development Manager at Accountability Lab."
   thumbnailUrl: anusha.png
   rockstar: true
   social: 
@@ -14,8 +14,8 @@
   name: "Yogina"
   surname: "Shakya"
   company: "CloudFactory"
-  title: "Coming Soon"
-  bio: 'Coming soon'
+  title: "Human Resource Professional"
+  bio: 'Yogina works at the CloudFactory.'
   thumbnailUrl: yogina.jpg
   rockstar: true
   social: 
@@ -27,8 +27,8 @@
   name: "Biswas"
   surname: "Dhakal"
   company: "F1Soft"
-  title: "Coming Soon"
-  bio: "#"
+  title: "President"
+  bio: "Biswas is President of F1Soft International, a technology company."
   thumbnailUrl: bishwas.jpeg
   rockstar: true
   social: 
@@ -39,8 +39,8 @@
   name: "Dietrich"
   surname: "Ayala"
   company: "Mozilla"
-  title: "Coming Soon"
-  bio: "Coming Soon"
+  title: "Developer evangelist "
+  bio: "Dietrich Ayala is a developer evangelist at Mozilla. Mozilla Firefox is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation."
   thumbnailUrl: dietrich.jpg
   rockstar: true
   social: 
@@ -51,8 +51,8 @@
   name: "David"
   surname: "Carpara"
   company: "Journalist"
-  title: "Coming Soon"
-  bio: "Coming Soon"
+  title: "Journalist"
+  bio: "David is a journalist based in the USA."
   thumbnailUrl: david.jpg
   rockstar: true
   social: 
@@ -63,8 +63,8 @@
   name: "Promisha"
   surname: "Mishra"
   company: "Computer Engineer"
-  title: "Coming Soon"
-  bio: "Coming Soon"
+  title: "IT professional"
+  bio: "Pramita is a computer engineer."
   thumbnailUrl: promisha.jpg
   rockstar: true
   social: 
@@ -75,8 +75,8 @@
   name: "Elizabeth"
   surname: "Bennett"
   company: "International Development Expert"
-  title: "Coming Soon"
-  bio: "Coming Soon"
+  title: "Expert"
+  bio: "Elizabeth has a graduate degree from Harvard University in public policy."
   thumbnailUrl: elizabeth.jpg
   rockstar: true
   social: 
@@ -87,8 +87,8 @@
   name: "Pratap"
   surname: "Adhikari"
   company: "Association of Youth Organization Nepal (AYON)"
-  title: "Coming Soon"
-  bio: "Coming Soon"
+  title: "Program Manager"
+  bio: "Pratap is program maanger at AYON."
   thumbnailUrl: pratap.jpg
   rockstar: true
 -
@@ -96,17 +96,17 @@
   name: "Nanda"
   surname: "Kishor Mandal"
   company: "WOMEN Development Advocacy Center"
-  title: "Coming Soon"
-  bio: "Coming Soon"
+  title: "Founder"
+  bio: "Nanda is founder of Women Development Advocacy Center."
   thumbnailUrl: nanda.jpg
   rockstar: true
 - 
   id: 10
   name: "Ravi"
   surname: "Kumar"
-  company: "Founder, Code for Nepal"
-  title: "Coming Soon"
-  bio: "Coming Soon"
+  company: "Code for Nepal"
+  title: "Founder"
+  bio: "Ravi is founder of Code for Nepal."
   thumbnailUrl: ravi.jpg
   rockstar: true
   social: 
