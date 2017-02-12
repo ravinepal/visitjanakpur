@@ -9,6 +9,7 @@
 - 
   group: "General partners"
   elements: 
+    - {name: "Eejot.org", description: "Eejot.org - Towards brightness through education", link: "http://eejot.org", imageUrl: "eejot.png", width: "120px"} 
     - {name: "Madhesi Youth", description: "Madhesi Youth", link: "#", imageUrl: "madhesi-youth.png"}
     - {name: "Janakpur Youth Network - JYN", description: "Janakpur Youth Network - JYN", link: "#", imageUrl: "JYN.jpg"}
     - {name: "Association of Youth Organizations Nepal(AYON)", description: "Association of Youth Organizations Nepal(AYON)", link: "#", imageUrl: "ayon.jpeg"}   
