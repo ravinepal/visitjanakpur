@@ -1,78 +1,91 @@
 -
   id: 101
-  title: "Welcome and Importance of Citizen Journalism"
+  title: "Welcome remarks"
   service: true
+  speakers: [9]
 -
   id: 102
-  title: "Using smartphone to to take photos and videos, and tell a story."
+  title: "Citizen journalism, and how to use mobile to take photos and videos"
   service: true
+  speakers: [5]
 -
   id: 103
-  title: "Open Source Tools, and Data Visualization"
+  title: "Touching the Future: Merging the Physical and Digital for Creative Experiences on the Web"
   service: true
+  speakers: [4]
 -
   id: 104
-  title: "Networking, questions and answers. (Food and drinks available.)"
+  title: "Data visualization and data journalism"
+  service: true
+  speakers: [10]
+-
+  id: 105
+  title: "Dinner and networking"
   service: true
 -
   id: 900
-  title: "Registration and light breakfast"
+  title: "Registration and tea/snacks"
   service: true
 -
   id: 901
-  title: "Welcome remarks by the hosts."
+  title: "Introductions and welcome remarks"
   service: true
+  speakers: [10]
 -
   id: 902
-  title: "How to use social media responsibly, especially during crisis."
+  title: "How to launch a successful company in Nepal"
   service: true
+  speakers: [3]
 -
   id: 903
-  title: "How to use the Open and Free Web to advance your career."
+  title: "What kind of skills do you need for the tech market"
   service: true
+  speakers: [2, 8, 11]
 -
   id: 904
-  title: "How can digital tools and platforms be used to tell a powerful story."
+  title: "Break"
   service: true
 -
   id: 905
-  title: "Experiences of local youth and changemakers."
+  title: "Touching the Future: Merging the Physical and Digital for Creative Experiences on the Web"
   service: true
+  speakers: [4]
 -
   id: 906
-  title: "Lunch Break"
+  title: "Accountability Lab"
   service: true
+  speakers: [1]
 -
   id: 907
-  title: "Speaker on career, and business."
+  title: "Nanda’s story and WDAC and fellowships"
   service: true
+  speakers: [9]
 -
   id: 908
-  title: "Soft skills, including public speaking, training."
+  title: "Panel from youths in JNK"
   service: true
+  speakers: [6]
 -
   id: 909
-  title: "Leveraging digital technology to build successful companies in Nepal."
+  title: "Break (tea and snacks)"
   service: true
 -
   id: 910
-  title: " TBD."
+  title: "Development and Data and Gender"
   service: true
+  speakres: [7, 10]
 -
   id: 911
-  title: "Panel with guests from outside of Nepal."
+  title: "Power of positive storytelling and citizen journalism"
   service: true
+  speakers: [5]
 -
   id: 912
-  title: "Tea/snacks break"
+  title: "Guest of honor and wrap up"
   service: true
 -
   id: 913
-  title: "Keynote Speaker"
-  service: true
--
-  id: 914
-  title: "Networking (Food and drinks available.)"
+  title: "Networking and dinner"
   service: true
 -
   id: 123
