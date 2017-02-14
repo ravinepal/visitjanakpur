@@ -6,7 +6,7 @@
 -
   id: 102
   title: "Citizen journalism, and how to use mobile to take photos and videos"
-  service: true
+  # service: true
   speakers: [5]
 -
   id: 103
