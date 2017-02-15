@@ -125,3 +125,12 @@
     - {name: "twitter", link: "https://twitter.com/realamitjha"}
     - {name: "facebook", link: "https://www.facebook.com/realamitjha"} 
     - {name: "site", link: "http://www.internetmarkettoday.com/"}
+- 
+  id: 12
+  name: "Priyasha"
+  surname: "Maharjan"
+  company: "Janata Clinic"
+  title: "Director Operations"
+  bio: ""
+  thumbnailUrl: priyasha.jpg
+  rockstar: true
