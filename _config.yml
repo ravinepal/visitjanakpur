@@ -87,8 +87,8 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "https://www.google.co.in/maps/place/Janakpur,+Nepal/@26.7323037,85.9176205,15z/data=!4m5!3m4!1s0x39ec4005fb138bb9:0x533a64cf0e13c2d1!8m2!3d26.7271466!4d85.9406745?hl=en"
+eventLocationName: "Hotel Manaki International"
+eventLocationLink: "https://www.google.co.in/maps/place/Hotel+Manaki+International/@26.7294947,85.9261647,16.24z/data=!4m5!3m4!1s0x39ec40070bfa97c3:0x8ddc5ba985e90d31!8m2!3d26.7300738!4d85.9288975?hl=en"
 eventStreetAddress: "Janakpur"
 eventAddressLocality: "Janakpur Dham"
 eventAddressLocalityRegion: "Janakpur"
@@ -97,9 +97,9 @@ eventAddressCountry: "Nepal"
 eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "26.729677, 85.921391"
-mapCenterCoordinates: "26.729677, 85.921391"
-mapMobileCenterCoordinates: "26.729677, 85.921391"
+eventPlaceCoordinates: "26.7294947,85.9261647"
+mapCenterCoordinates: "26.7294947,85.9261647"
+mapMobileCenterCoordinates: "26.7294947,85.9261647"
 
 # Venue Block
 venueBlockTitle: "Venue"
