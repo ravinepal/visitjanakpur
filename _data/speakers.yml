@@ -143,3 +143,15 @@
   bio: "Sayda is currently the English Language Development (ELD) Specialist at Phoenix Charter Academy in Springfield, MA. She is also a 2nd year corps member through Teach for America (TFA)."
   thumbnailUrl: sayda.png
   rockstar: true  
+- 
+  id: 14
+  name: "Sam"
+  surname: "Mitchell"
+  company: "Linguas Francas"
+  title: "Cofounder"
+  bio: "I am a former Fulbright Brazil ETA, and I am currently the ELL teacher at Rise at Van Sickle in Springfield, MA, and a cofounder of Linguas Francas."
+  thumbnailUrl: sam.jpg
+  rockstar: true  
+  social: 
+    - {name: "twitter", link: "http://twitter.com/linguasfrancas"}
+    - {name: "facebook", link: "https://facebook.com/linguasfrancas"} 
