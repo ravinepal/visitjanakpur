@@ -134,3 +134,12 @@
   bio: ""
   thumbnailUrl: priyasha.jpg
   rockstar: true
+- 
+  id: 13
+  name: "Sayda"
+  surname: "Morales"
+  company: "Phoenix Charter Academy"
+  title: "English Language Development (ELD) Specialist"
+  bio: "Sayda is currently the English Language Development (ELD) Specialist at Phoenix Charter Academy in Springfield, MA. She is also a 2nd year corps member through Teach for America (TFA)."
+  thumbnailUrl: sayda.png
+  rockstar: true  
