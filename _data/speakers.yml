@@ -155,3 +155,12 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/linguasfrancas"}
     - {name: "facebook", link: "https://facebook.com/linguasfrancas"} 
+- 
+  id: 15
+  name: "Kate"
+  surname: "Sturla"
+  company: "IDinsight"
+  title: "Senior Manager"
+  bio: "Kate Sturla is a Senior Manager at IDinsight, based in New Delhi, India. She currently leads education projects in Rajasthan and Mumbai, and an agriculture project with backyard poultry farmers in Jharkhand. Prior to joining IDinsight, Kate worked on education projects in India and Peru and oversaw impact evaluations of public health interventions in India. Kate holds a bachelor’s degree in Political Science from University of California, Berkeley and an MPA in International Development (MPA/ID) from Harvard Kennedy School."
+  thumbnailUrl: karla.jpg
+  rockstar: true  
